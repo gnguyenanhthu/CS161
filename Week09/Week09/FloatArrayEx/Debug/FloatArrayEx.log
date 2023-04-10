@@ -1,0 +1,14 @@
+﻿  main.cpp
+d:\apcs\cs161\week09\week09\floatarrayex\main.cpp(60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Function.cpp
+d:\apcs\cs161\week09\week09\floatarrayex\function.cpp(47): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\apcs\cs161\week09\week09\floatarrayex\function.cpp(55): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\apcs\cs161\week09\week09\floatarrayex\function.cpp(79): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\apcs\cs161\week09\week09\floatarrayex\function.cpp(85): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\apcs\cs161\week09\week09\floatarrayex\function.cpp(151): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\apcs\cs161\week09\week09\floatarrayex\function.cpp(153): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+d:\apcs\cs161\week09\week09\floatarrayex\function.cpp(61): warning C4715: 'minpos': not all control paths return a value
+d:\apcs\cs161\week09\week09\floatarrayex\function.cpp(81): warning C4715: 'negnum': not all control paths return a value
+  FloatArrayEx.vcxproj -> D:\APCS\CS161\Week09\Week09\Debug\FloatArrayEx.exe
+  FloatArrayEx.vcxproj -> D:\APCS\CS161\Week09\Week09\Debug\FloatArrayEx.pdb (Partial PDB)
