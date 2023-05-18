@@ -1,0 +1,5 @@
+﻿  Function.cpp
+d:\apcs\cs161\week08\ex01\ex07\function.cpp(7): warning C4018: '<=': signed/unsigned mismatch
+d:\apcs\cs161\week08\ex01\ex07\function.cpp(21): warning C4018: '<=': signed/unsigned mismatch
+  Ex07.vcxproj -> D:\APCS\CS161\Week08\Ex01\Debug\Ex07.exe
+  Ex07.vcxproj -> D:\APCS\CS161\Week08\Ex01\Debug\Ex07.pdb (Partial PDB)

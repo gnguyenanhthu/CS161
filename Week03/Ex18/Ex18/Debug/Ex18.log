@@ -1,0 +1,4 @@
+﻿  Ex18.cpp
+d:\apcs\cs161\week03\ex18\ex18\ex18.cpp(40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Ex18.vcxproj -> D:\APCS\CS161\Week03\Ex18\Debug\Ex18.exe
+  Ex18.vcxproj -> D:\APCS\CS161\Week03\Ex18\Debug\Ex18.pdb (Partial PDB)

@@ -1,0 +1,11 @@
+﻿  Ex05.cpp
+d:\apcs\cs161\week05\ex05\ex05\ex05.cpp(14): error C2059: syntax error: 'if'
+d:\apcs\cs161\week05\ex05\ex05\ex05.cpp(19): error C2059: syntax error: '>>'
+d:\apcs\cs161\week05\ex05\ex05\ex05.cpp(21): error C2143: syntax error: missing ';' before '<<'
+d:\apcs\cs161\week05\ex05\ex05\ex05.cpp(21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\apcs\cs161\week05\ex05\ex05\ex05.cpp(22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\apcs\cs161\week05\ex05\ex05\ex05.cpp(22): error C2365: 'system': redefinition; previous definition was 'function'
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdlib.h(1226): note: see declaration of 'system'
+d:\apcs\cs161\week05\ex05\ex05\ex05.cpp(23): error C2059: syntax error: 'return'
+d:\apcs\cs161\week05\ex05\ex05\ex05.cpp(24): error C2059: syntax error: '}'
+d:\apcs\cs161\week05\ex05\ex05\ex05.cpp(24): error C2143: syntax error: missing ';' before '}'

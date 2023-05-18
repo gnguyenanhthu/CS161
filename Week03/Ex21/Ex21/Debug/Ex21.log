@@ -1,0 +1,9 @@
+﻿  Ex21.cpp
+d:\apcs\cs161\week03\ex21\ex21\ex21.cpp(33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\apcs\cs161\week03\ex21\ex21\ex21.cpp(36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\apcs\cs161\week03\ex21\ex21\ex21.cpp(39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\apcs\cs161\week03\ex21\ex21\ex21.cpp(42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\apcs\cs161\week03\ex21\ex21\ex21.cpp(45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\apcs\cs161\week03\ex21\ex21\ex21.cpp(47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Ex21.vcxproj -> D:\APCS\CS161\Week03\Ex21\Debug\Ex21.exe
+  Ex21.vcxproj -> D:\APCS\CS161\Week03\Ex21\Debug\Ex21.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿  Ex31.cpp
+d:\apcs\cs161\week04\ex31\ex31\ex31.cpp(20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Ex31.vcxproj -> D:\APCS\CS161\Week04\Ex31\Debug\Ex31.exe
+  Ex31.vcxproj -> D:\APCS\CS161\Week04\Ex31\Debug\Ex31.pdb (Partial PDB)

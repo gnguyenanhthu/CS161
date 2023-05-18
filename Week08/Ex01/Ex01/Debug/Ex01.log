@@ -1,0 +1,4 @@
+﻿  Ex01.cpp
+d:\apcs\cs161\week08\ex01\ex01\ex01.cpp(11): warning C4101: 'i': unreferenced local variable
+  Ex01.vcxproj -> D:\APCS\CS161\Week08\Ex01\Debug\Ex01.exe
+  Ex01.vcxproj -> D:\APCS\CS161\Week08\Ex01\Debug\Ex01.pdb (Partial PDB)

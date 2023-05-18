@@ -1,0 +1,6 @@
+﻿  Ex06.cpp
+d:\apcs\cs161\week08\ex01\ex06\ex06.cpp(21): warning C4018: '<=': signed/unsigned mismatch
+d:\apcs\cs161\week08\ex01\ex06\ex06.cpp(35): warning C4018: '<=': signed/unsigned mismatch
+d:\apcs\cs161\week08\ex01\ex06\ex06.cpp(15): warning C4101: 'a': unreferenced local variable
+  Ex06.vcxproj -> D:\APCS\CS161\Week08\Ex01\Debug\Ex06.exe
+  Ex06.vcxproj -> D:\APCS\CS161\Week08\Ex01\Debug\Ex06.pdb (Partial PDB)

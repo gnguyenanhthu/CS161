@@ -1,0 +1,4 @@
+﻿  Ex13.cpp
+d:\apcs\cs161\week03\ex13\ex13\ex13.cpp(30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Ex13.vcxproj -> D:\APCS\CS161\Week03\Ex13\Debug\Ex13.exe
+  Ex13.vcxproj -> D:\APCS\CS161\Week03\Ex13\Debug\Ex13.pdb (Partial PDB)

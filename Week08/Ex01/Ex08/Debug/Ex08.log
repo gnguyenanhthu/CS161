@@ -1,0 +1,5 @@
+﻿  Ex08.cpp
+d:\apcs\cs161\week08\ex01\ex08\ex08.cpp(21): warning C4018: '<=': signed/unsigned mismatch
+d:\apcs\cs161\week08\ex01\ex08\ex08.cpp(29): warning C4018: '<=': signed/unsigned mismatch
+  Ex08.vcxproj -> D:\APCS\CS161\Week08\Ex01\Debug\Ex08.exe
+  Ex08.vcxproj -> D:\APCS\CS161\Week08\Ex01\Debug\Ex08.pdb (Partial PDB)
